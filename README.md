@@ -4,20 +4,20 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://telegra.ph/file/eecd5673d4d80563d645b.jpg">
+<img alt=🪄🍪 height="300" src="https://telegra.ph/file/bceff9a92897cadc63168.jpg">
 
 </center>
 
-<h1 align="center">MAC MD</h1>
+<h1 align="center">MADARA MD</h1>
  
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31" target="_blank">
+<a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON MAC APP
+1,TAP ON MADARA APP
 
 
 
@@ -30,17 +30,17 @@
 
  <hr>
 
-## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗔𝗖 𝗕𝗢𝗧
+## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 MADARA 𝗕𝗢𝗧
   
-[𝗠𝗔𝗖 𝗔𝗣𝗣](https://mac-scanner-d82e01b36359.herokuapp.com/)
+[𝚳𝚫𝐃𝚫𝚪𝚫 𝚫𝚸𝚸](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)
 
 
  <hr>
  
 ## DEVELOPE𝙍S
-[`𝙈𝘼𝘾 𝙏𝙀𝘾𝙃`](https://wa.me/256705036288)
+[`𝚩𝚪𝐘𝚫𝚴𝚻 𝚻𝚵𝐂𝚮`](https://wa.me/233538230444)
 
-[`𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃`](https://www.youtube.com/@ibrahimmdgpt)
+ [`MAC TECH`](https://wa.me/256705036288)
 
 
 
