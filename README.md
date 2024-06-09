@@ -30,9 +30,12 @@
 
  <hr>
 
-## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 MADARA 𝗕𝗢𝗧
+## TAP ON APP(1) FOR SESSION ID
+## TAP ON APP(2) FOR HEROKU DEPLOYMENT 
   
-[𝚳𝚫𝐃𝚫𝚪𝚫 𝚫𝚸𝚸](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)
+[𝚳𝚫𝐃𝚫𝚪𝚫 𝚫𝚸𝚸2](https://bryant-tech-bot-6caf875ac89b.herokuapp.com)
+[𝚳𝚫𝐃𝚫𝚪𝚫 𝚫𝚸𝚸1]
+(https://dashboard.heroku.com/new?template=https://github.com/BryantXtech/Madara-md)
 
 
  <hr>
