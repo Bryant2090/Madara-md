@@ -1,15 +1,15 @@
 {
-  "name": "Mac-md2.0",
-  "description": "Hi there, I am Mac Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +256705036288 +254710772666",
-  "logo": "https://telegra.ph/file/eecd5673d4d80563d645b.jpg",
-  "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
+  "name": "Madara-md",
+  "description": "Hi there, I am Madara Bot Whatsapp Chuddy Buddy built in NodeJs by BryantXtech to make experience better.\n\t Incase of Any Problem Whatsapp me on: +233538230444 +233530729233",
+  "logo": "https://telegra.ph/file/5d492db5e8ce619ebbefc.jpg",
+  "keywords": ["whatsappbot", "sharinganMd", "Madara Md bot", "itachi-Md", "madaraMdWhatsaooBot", "madaraWaBot","madarasusanooMD","Madara Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Bot Owner Name",    
-      "value": "Mac",
+      "description": "Bot Owner Name",   
+      "value": "Bryant tech",
       "required" :true
     },   
     
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝗠𝗔𝗖-𝗠𝗗"
+      "value": "MADARA-𝗠𝗗"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/eecd5673d4d80563d645b.jpg"
+      "value": "https://telegra.ph/file/f20ed6587cc30da8f117c.mp4"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Africa/Uganda"
+      "value": "Africa/Ghana"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -47,7 +47,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :true,    
-      "value": "5"
+      "value": "2"
     }, 
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -107,12 +107,10 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "256705036288,254710772666,254739937062"
-    },
-    "SESSION_ID": {
+      "value": "256705036288,254710ON_ID": {
       "description": "put your SESSION_ID here.",
       "required" :true,
-      "value": ""
+      "value": "233538230444"
   
     },
     "OPENAI_API_KEY": {
@@ -137,17 +135,17 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Mac md2.0",
+      "value": "Madara md",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Whatsappbot",
+      "value": "Bryant tech",
       "required": true 
   },
     "STACK": {
       "description": "STACK NAME ",
-      "value": "container | heroku-22 | 4246315815290786|01|2026|717",
+      "value": "Madara md| Bryant | 4246315815290786|01|2026|717",
 "required": false
       }
     },
