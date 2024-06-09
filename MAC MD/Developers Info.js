@@ -1,4 +1,4 @@
 
-Developer one = Mas tech https://wa.me/256705036288
+Developer = BryantXtech  https://wa.me/233538230444
 
-Developer two = IBRAHIM TECH: https://wa.me/254710772666
+   
