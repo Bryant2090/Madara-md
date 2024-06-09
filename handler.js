@@ -585,7 +585,7 @@ To disable this feature, type
 }
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '👑 This command can only be used by the *Bot Creator*',
+        rowner: '👑 This command can only be used by the *Bryant tech*',
         owner: '🔱 This command can only be used by the *Bot Owner*',
         mods: '🔰 This feature is only for *For Bot moderators*',
         premium: '💠 This command is only for *Premium* members\n\nType */premium* for more info',
