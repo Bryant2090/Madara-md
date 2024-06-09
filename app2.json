@@ -1,15 +1,15 @@
 {
-  "name": "Blackpanthermd@1.3.1",
-  "description": "I am Black-panther-md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://www.youtube.com/@ibrahimmdgpt",
-  "logo": "https://telegra.ph/file/cc3c025bb976c10f04e40.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "name": "Madara md",
+  "description": "I am Black-panther-md Whatsapp Chuddy Buddy built in NodeJs by Bryat to make experience better\n\t if Any Problem : "https://instagram.com/Bryant_tech.1",
+  "logo": "https://telegra.ph/file/b16601b705f5e6833a9c6.jpg",
+  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Madara-Md", "MadaraMdWhatsaooBot", "MadaraWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Ibrahim Adams",
+      "value": "BryantXtech",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗"
+      "value": "MADARA-𝗠𝗗"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/cc3c025bb976c10f04e40.jpg,https://telegra.ph/file/522d399d03e2b682a6938.mp4"
+      "value": "https://telegra.ph/file/6db70e83dfd1142d37547.mp4"
     }, 
     "TZ": 
       "description": "put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Nairobi"
+      "value": "Africa/Ghana"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "25471077266"
+      "value": "233538230444"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -124,11 +124,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Madara Md",
       "required": false 
     },
     "PACK_AUTHER": {
